@@ -178,10 +178,6 @@
 		<Correct>1 Гр = 100 рад</Correct>
 	</record>
 	<record>
-		<question>В каком законе РФ регламентированы вопросы ответственности за нарушения требований охраны труда:</question>
-		<Correct>Оба закона</Correct>
-	</record>
-	<record>
 		<question>Какие виды действия оказывает электрический ток на человека:</question>
 		<Correct>Оба вида</Correct>
 	</record>
@@ -586,10 +582,6 @@
 		<question>Контроль защитного заземления необходимо проводить:</question>
 		<Incorrect1>2 раз в год</Incorrect1>
 	</record>
-	
-	
-	
-	
 	<record>
 		<question>Вибропоглощение зависит от:</question>
 		<Correct>Коэффициента трения в вибросистеме</Correct>
@@ -629,5 +621,17 @@
 	<record>
 		<question>Какой опасный или вредный фактор может воздействовать на человека при работе с лазерной установкой:</question>
 		<Correct>Все перечисленные</Correct>
+	</record>
+	<record>
+		<question>Категории взрывоопасных смесей установлены в зависимости от:</question>
+		<Incorrect1>От обоих показателей</Incorrect1>
+	</record>
+	<record>
+		<question>Основная причина генерации электромагнитного излучения (ЭМИ)?</question>
+		<Incorrect1>воздействие медленных нейтронов на ионизированный газ</Incorrect1>
+	</record>
+	<record>
+		<question>Какова скорость ударной волны при ядерном взрыве (ЯВ) (м/с)?</question>
+		<Incorrect1>>330</Incorrect1>
 	</record>
 </data-set>
