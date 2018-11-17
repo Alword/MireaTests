@@ -24,6 +24,7 @@ if(record.getElementsByTagName("Incorrect1")[0] != null)
     setIncorrect(incorrectlabel);
 }
 
+var question = document.getElementsByClassName("prompt")[0].innerHTML+=answer;
 
 function setCorrect(element)
 {
