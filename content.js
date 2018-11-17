@@ -75,7 +75,11 @@ function findAnswerElem(queryAnswer)
     var labels = answerelement.getElementsByTagName("label");
     for(var i = 0; i<labels.length;i++)
     {
-        if(labels[i].innerHTML.includes(queryAnswer))
+        if(labels[i].innerHTML.endsWith(queryAnswer))
         return labels[i];
     }
 }
+
+String.prototype.endsWith = function(suffix) {
+    return this.indexOf(suffix, this.length - suffix.length) !== -1;
+};
