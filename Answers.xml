@@ -394,7 +394,7 @@
 	</record>
 	<record>
 		<question>Какова ПДК для высоко опасных вредных веществ </question>
-		<Correct>0.1-1.0</Correct>		
+		<Incorrect1>0.1-1.0</Incorrect1>		
 	</record>
 	<record>
 		<question>Виброгашение зависит от:</question>
@@ -580,5 +580,9 @@
 	<record>
 		<question>Радиационные аварии подразделяются на?:</question>
 		<Correct>все перечисленные</Correct>
+	</record>
+	<record>
+		<question>Контроль защитного заземления необходимо проводить:</question>
+		<Incorrect1>2 раз в год</Incorrect1>
 	</record>
 </data-set>
