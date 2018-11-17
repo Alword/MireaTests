@@ -1,25 +1,29 @@
-//alert('test');
 var x = document.getElementsByClassName("qtext");
 var queryQuestion = x[0].innerHTML; 
-
-//var radio = document.getElementsByClassName("r1");
-//setCorrect(radio[1]);
-//setIncorrect(radio[0]);
 
 var xmlData = readXML();
 var record = findAnswerRecord(queryQuestion,xmlData);
 
-var question = record.getElementsByTagName("question")[0].firstChild.data;
-var answer = record.getElementsByTagName("Correct")[0].firstChild.data;
-var incorrent1 = record.getElementsByTagName("Incorrect1")[0].firstChild.data;
-console.log(question);
-console.log(answer);
-console.log(incorrent1);
 
-var answerlabel = findAnswerElem(answer);
-setCorrect(answerlabel);
-var incorrectlabel = findAnswerElem(answer);
-setIncorrect(incorrectlabel);
+var question = record.getElementsByTagName("question")[0].firstChild.data;
+console.log(question);
+
+if(record.getElementsByTagName("Correct")[0] != null)
+{
+    var answer = record.getElementsByTagName("Correct")[0].firstChild.data;
+    console.log(answer);
+    var answerlabel = findAnswerElem(answer);
+    setCorrect(answerlabel);
+}
+
+if(record.getElementsByTagName("Incorrect1")[0] != null)
+{
+    var incorrent1 = record.getElementsByTagName("Incorrect1")[0].firstChild.data;
+    console.log(incorrent1);
+    var incorrectlabel = findAnswerElem(incorrent1);
+    setIncorrect(incorrectlabel);
+}
+
 
 function setCorrect(element)
 {
@@ -41,7 +45,6 @@ function readXML()
     var xmlData = xml.responseXML;
     if(!xmlData)
     {
-
         xmlData = (new DOMParser()).parseFromString(xml.responseText,'text/html');
         return xmlData;
         
@@ -54,13 +57,14 @@ function findAnswerRecord(queryQuestion, xmlData)
 
     var questions = xmlData.getElementsByTagName("question");
     
-    var i = 0;
-    while(i++ < questions.length)
+    var j = 0;
+    while(j++ < questions.length)
     {
-        var question = questions[i].firstChild.data; 
+        var question = questions[j].firstChild.data; 
         if(queryQuestion == question)
         {
-            return questions[i].parentNode;
+            console.log("Вопрос:"+question);
+            return questions[j].parentNode;
         }
     }
 }
@@ -68,10 +72,10 @@ function findAnswerRecord(queryQuestion, xmlData)
 function findAnswerElem(queryAnswer)
 {
     var answerelement = document.getElementsByClassName("answer")[0];
-    var labels = answerelement.getElementsByTagName("label")[0];
+    var labels = answerelement.getElementsByTagName("label");
     for(var i = 0; i<labels.length;i++)
     {
-        if(labels[i].innerHTML == queryAnswer)
+        if(labels[i].innerHTML.includes(queryAnswer))
         return labels[i];
     }
 }
