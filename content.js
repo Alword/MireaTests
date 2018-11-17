@@ -28,14 +28,24 @@ var question = document.getElementsByClassName("prompt")[0].innerHTML+=" ("+answ
 
 function setCorrect(element)
 {
-    element.className +=" correct";
-    element.innerHTML += '<img src="https://online-edu.mirea.ru/theme/image.php/essential/core/1539516566/i/grade_correct" alt="Верно" class="questioncorrectnessicon">';
+    try
+    {
+        element.className +=" correct";
+        element.innerHTML += '<img src="https://online-edu.mirea.ru/theme/image.php/essential/core/1539516566/i/grade_correct" alt="Верно" class="questioncorrectnessicon">';
+    }catch (err){
+        console.log("setCorrect error")
+    }
 }
 
 function setIncorrect(element)
 {
-    element.className +=" incorrect";
-    element.innerHTML += '<img src="https://online-edu.mirea.ru/theme/image.php/essential/core/1539516566/i/grade_incorrect" alt="Неверно" class="questioncorrectnessicon">';
+    try
+    {
+        element.className +=" incorrect";
+        element.innerHTML += '<img src="https://online-edu.mirea.ru/theme/image.php/essential/core/1539516566/i/grade_incorrect" alt="Неверно" class="questioncorrectnessicon">';
+    }catch (err){
+        console.log("setIncorrect error")
+    }
 }
 
 function readXML()
@@ -58,16 +68,16 @@ function findAnswerRecord(queryQuestion, xmlData)
 
     var questions = xmlData.getElementsByTagName("question");
     
-    var j = 0;
-    while(j++ < questions.length)
+    for(var i = 0; i<questions.length; i++)
     {
-        var question = questions[j].firstChild.data; 
+        var question = questions[i].firstChild.data; 
         if(queryQuestion == question)
         {
             console.log("Вопрос:"+question);
-            return questions[j].parentNode;
+            return questions[i].parentNode;
         }
-    }
+
+    } 
 }
 
 function findAnswerElem(queryAnswer)
