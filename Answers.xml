@@ -451,7 +451,7 @@
 	</record>
 	<record>
 		<question>Энергетическая освещенность лазерного излучения имеет размерность:</question>
-		<Correct>Вт/см2 </Correct>
+		<Correct>Вт/см2</Correct>
 	</record>
 	<record>
 		<question>Вредные производственные факторы приводят к:</question>
@@ -555,7 +555,7 @@
 	</record>
 	<record>
 		<question>Какая температура образуется в светящейся области ядерного взрыва в 1-ой фазе в градусах Цельсия?</question>
-		<Incorrect1>2400-5700</Incorrect1>
+		<Correct>1700-2400</Correct>
 	</record>
 	<record>
 		<question>Сколько процентов энергии от ЯВ приходится на быстрые нейтроны?</question>
@@ -580,5 +580,69 @@
 	<record>
 		<question>Радиационные аварии подразделяются на?:</question>
 		<Correct>все перечисленные</Correct>
+	</record>
+	<record>
+		<question>Функциональные подсистемы создаются?</question>
+		<Correct>федеральными органами исполнительной власти</Correct>
+	</record>
+	<record>
+		<question>Функциональные подсистемы создаются?</question>
+		<Correct>федеральными органами исполнительной власти</Correct>
+	</record>
+	<record>
+		<question>К основным нормативно-техническим документам, регламентирующим вопросы БЖ, относятся?</question>
+		<Correct>все вышеперечисленное</Correct>
+	</record>
+	<record>
+		<question>Сколько классов по электроопасности установлено для помещений:</question>
+		<Correct>3</Correct>
+	</record>
+	<record>
+		<question>Самовозгорание материалов возможно из-за:</question>
+		<Correct>По всем трем причинам</Correct>
+	</record>
+	<record>
+		<question>По мощности ядерные боеприпасы подразделяются на?</question>
+		<Correct>все вышеперечисленные</Correct>
+	</record>
+	<record>
+		<question>Какой опасный или вредный фактор может воздействовать на человека при работе с лазерной установкой:</question>
+		<Correct>Все перечисленные</Correct>
+	</record>
+	<record>
+		<question>Почва загрязняется?</question>
+		<Correct>всеми вышеперечисленными</Correct>
+	</record>
+	<record>
+		<question>Почва загрязняется?</question>
+		<Correct>всеми вышеперечисленными</Correct>
+	</record>
+	<record>
+		<question>Санитарная норма подачи наружного воздуха в помещение зависит от:</question>
+		<Correct>Объема помещения</Correct>
+	</record>
+	<record>
+		<question>В каких единицах измеряется величина светового импульса в системе СИ?</question>
+		<Correct>Дж/м2</Correct>
+	</record>
+	<record>
+		<question>Какова скорость ударной волны при ядерном взрыве (ЯВ) (м/с)?</question>
+		<Correct>>1200</Correct>
+	</record>
+	<record>
+		<question>Какова скорость ударной волны при ядерном взрыве (ЯВ) (м/с)?</question>
+		<Correct>>1200</Correct>
+	</record>
+	<record>
+		<question>Виды несчастных случаев на производстве?</question>
+		<Correct>>Все вышеперечисленные</Correct>
+	</record>
+	<record>
+		<question>Освещение рабочей поверхности оценивают по</question>
+		<Correct>>Освещенности</Correct>
+	</record>
+	<record>
+		<question>Уровень звукового давления имеет размерность</question>
+		<Correct>>Дб</Correct>
 	</record>
 </data-set>
