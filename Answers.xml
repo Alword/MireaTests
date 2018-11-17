@@ -209,8 +209,12 @@
 		<Correct>Оба фактора</Correct>
 	</record>
 	<record>
+		<question>Контроль защитного заземления необходимо проводить</question>
+		<Correct>Не реже 2 раз в год</Correct>
+	</record>
+	<record>
 		<question>Контроль защитного заземления необходимо проводить:</question>
-		<Correct>Не реже 2 раз в год (ГДЕ НЕТ ДВОЕТОЧИЯ ЭТО НЕ ВЕРНО!)</Correct>
+		<Correct>Не реже 1 раза в год</Correct>
 	</record>
 	<record>
 		<question>Напряжение прикосновения при удалении от заземлителя:</question>
