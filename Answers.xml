@@ -586,4 +586,48 @@
 		<question>Контроль защитного заземления необходимо проводить:</question>
 		<Incorrect1>2 раз в год</Incorrect1>
 	</record>
+	
+	
+	
+	
+	<record>
+		<question>Вибропоглощение зависит от:</question>
+		<Correct>Коэффициента трения в вибросистеме</Correct>
+	</record>
+	<record>
+		<question>Тональным считается шум, если в его спектре есть дискретные тона, превышающие средний уровень на:</question>
+		<Correct>10 дБ</Correct>
+	</record>
+	<record>
+		<question>Ударная волна максимальна при?</question>
+		<Correct>воздушном взрыве на высоте 1 км</Correct>
+	</record>
+	<record>
+		<question>Какие случаи на производстве, подлежат расследованию?</question>
+		<Correct>Все вышеперечисленное</Correct>
+	</record>
+	<record>
+		<question>Каковы характеристики зон умеренного радиоактивного заражения (в Р)?</question>
+		<Correct>400-1200</Correct>
+	</record>
+	<record>
+		<question>Крупные аварии и техногенные катастрофы являются причиной возникновения?</question>
+		<Incorrect1>От обоих показателей</Incorrect1>
+	</record>
+	<record>
+		<question>РСЧС состоит из следующих подсистем?</question>
+		<Correct>функциональных подсистем</Correct>
+	</record>
+	<record>
+		<question>Уровень звукового давления имеет размерность:</question>
+		<Correct>Па</Correct>
+	</record>
+	<record>
+		<question>На какое количество категорий делятся аварии на химически опасных объектах?</question>
+		<Incorrect1>4</Incorrect1>
+	</record>
+	<record>
+		<question>Какой опасный или вредный фактор может воздействовать на человека при работе с лазерной установкой:</question>
+		<Correct>Все перечисленные</Correct>
+	</record>
 </data-set>
