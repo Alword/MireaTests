@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<question>Какое соотношение между единицами измерения Кюри и Беккерелем:</question>
+		<Correct>1Ku=3,7∗10^10 Бк</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Какое соотношение справедливо:</question>
+		<Correct>1P=2,58∗10−4 Кл/кг</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>В каком законе РФ регламентированы вопросы охраны труда на предприятии:</question>
+		<Correct>Все три закона</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Какой параметр является определяющим для оценки категории тяжести труда:</question>
+		<Correct>Интегральный показатель</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Сколько категорий тяжести труда установлено:</question>
+		<Correct>6</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Как называется действие электрического тока, которое вызывает разложение крови и других жидкостей организма человека:</question>
+		<Correct>Электролитическое</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Какие виды ожогов могут возникнуть при воздействии электрического тока на человека:</question>
+		<Correct>Оба вида</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Какая толщина отражающего экрана в мм достаточна для защиты от СВЧ энергии:</question>
+		<Correct>Любая</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Контроль ионизирующего излучения осуществляется с помощью</question>
+		<Correct>Всех вышеперечисленных</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>При какой численности работников в организации создается комитеты (комиссии) по охране труда:</question>
+		<Correct>10</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Какие факторы определяют тяжесть труда:</question>
+		<Correct>Все факторы</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Наиболее опасен электрический ток для человека в диапазоне частот в Гц:</question>
+		<Correct>20-100</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Какие травмы при воздействия электрического тока на человека относят к общим:</question>
+		<Correct>Все перечисленные</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Допустимая годовая доза эквивалентного излучения для лиц работающих с изотопами составляет в бэрах:</question>
+		<Correct>5</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Какие работы считаются легкими (по степени физической тяжести), измеренные в Вт:</question>
+		<Correct>До 172</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Какие работы считаются средней тяжести (по степени физической тяжести), измеренные в Вт:</question>
+		<Correct>172-293</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>При какой силе тока (50Гц) в mА, протекающего через человека, может начаться фибрилляция сердца:</question>
+		<Correct>100</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Какое соотношение справедливо:</question>
+		<Correct>1 бэр= 0,01 3иверт</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Что относят к общим электрическим травмам:</question>
+		<Correct>Все три вида последствий</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Активность радиоактивного вещества измеряется в единицах системы СИ:</question>
+		<Correct>Беккерель</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Поглощенная доза ионизирующего излучения измеряется в единицах системы СИ:</question>
+		<Correct>Грэй</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Какое сопротивление, в основном, ограничивает ток через тело человека в сети с изолированной нейтралью при его включении между фазой и землей:</question>
+		<Correct>Сопротивление изоляции</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Что понимают под рабочей зоной:</question>
+		<Correct>Пространство до 2 м над уровнем пола</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Какие виды контроля за соблюдением законодательства об охране труда предусмотрены законами РФ:</question>
+		<Correct>Все виды контроля</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Эквивалентная доза ионизирующего излучения измеряется в единицах системы СИ:</question>
+		<Correct>Зиверт</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Какие документы имеют приоритетное значение:</question>
+		<Correct>Международный договор Российской Федерации</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Автоматическое защитное отключение на дифференциальном токе обеспечивает защиту человека, имеющего контакт с землей, при его прикосновении:</question>
+		<Correct>Во всех случаях</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Какой инструктаж по технике безопасности положено проводить для вновь принятых на работу:</question>
+		<Correct>Оба вида</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>При какой численности работников в организации создается служба охраны труда или вводится должность специалиста по охране труда:</question>
+		<Correct>100</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Принцип защитного действия зануления:</question>
+		<Correct>Оба принципа действия</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Какие работы считаются средней тяжести (по степени физической тяжести), измеренные в Вт:</question>
+		<Correct>172-293</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>На кого распространяется действие ФЗ «Об основах охраны труда в Российской Федерации»:</question>
+		<Correct>На обе категории</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Воздействие электромагнитных излучений на человека сильнее при длине волны в метрах:</question>
+		<Correct>1</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>К источникам ионизирующего излучения относятся:</question>
+		<Correct>Все вышеназванные</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Постоянное рабочее место – место, на котором работник находится:</question>
+		<Correct>Более 2 часов непрерывно</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Сопротивление защитного заземления в сетях с напряжением 220/380 В должно составлять:</question>
+		<Correct>Не более 4 Ом</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Что в первую очередь необходимо сделать при оказании первой помощи человеку, попавшему под действие электрического тока:</question>
+		<Correct>Освободить человека от действия электрического тока</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Какой документ в соответствии с ФЗ входит в коллективный договор между рабочими и администрацией:</question>
+		<Correct>Соглашение по охране труда</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Воздействие ионизирующих излучений на человека зависит от:</question>
+		<Correct>Всего вышеперечисленного</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Эквивалентная доза ионизирующего излучения измеряется в единицах системы СИ:</question>
+		<Correct>Зиверт</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Что относят к общим электрическим травмам:</question>
+		<Correct>Все три вида последствий</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>К основным средствам индивидуальной защиты в электроустановках до 1000В относятся:</question>
+		<Correct>Все перечисленные средства</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Какие травмы при воздействия электрического тока на человека относят к местным:</question>
+		<Correct>Все выше перечисленные</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Какое соотношение справедливо:</question>
+		<Correct>1 Гр = 100 рад</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>В каком законе РФ регламентированы вопросы ответственности за нарушения требований охраны труда:</question>
+		<Correct>Оба закона</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Какие виды действия оказывает электрический ток на человека:</question>
+		<Correct>Оба вида</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Какие виды контроля за соблюдением законодательства об охране труда предусмотрены законами РФ:</question>
+		<Correct>Все виды контроля</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Экспозиционная доза ионизирующего излучения измеряется в:</question>
+		<Correct>Рентген</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Какие методы могут быть использованы для оценки изменения функционального состояния человека по сравнению с исходным состоянием покоя:</question>
+		<Correct>Оба метода</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Допустимое значение напряжения прикосновении переменного тока промышленной частоты 50 Гц для нормального режима промышленного оборудования не должно превышать, В:</question>
+		<Correct>2</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>При какой силе переменного (50Гц) тока в mА человек ощущает его протекание:</question>
+		<Correct>0,6-1,5</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Какой фактор относится к вредному производственному фактору:</question>
+		<Correct>Оба фактора</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Контроль защитного заземления необходимо проводить:</question>
+		<Correct>Не реже 2 раз в год (ГДЕ НЕТ ДВОЕТОЧИЯ ЭТО НЕ ВЕРНО!)</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Напряжение прикосновения при удалении от заземлителя:</question>
+		<Correct>Увеличивается</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Какие материалы используют при создании поглощающих экранов:</question>
+		<Correct>Комбинированные</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Какое соотношение справедливо:</question>
+		<Correct>1 Гр = 100 рад</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Контроль защитного заземления осуществляют:</question>
+		<Correct>Измерением его сопротивления</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Какие работы считаются тяжелыми (по степени физической тяжести), измеренные в Вт:</question>
+		<Correct>Более 292</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Коэффициент пульсации светового потока зависит от:</question>
+		<Correct>Частоты электрического тока</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Что понимают под рабочей зоной:</question>
+		<Correct>Пространство до 2 м над уровнем пола</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Какие сопротивления ограничивают ток короткого замыкания при занулении корпуса в аварийном режиме:</question>
+		<Correct>Сопротивления фазного и нулевого проводов</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>В каком документе рассматриваются вопросы несчастных случаев на производстве:</question>
+		<Correct>Трудовой кодекс РФ</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Для источников ВЧ диапазона нормируется:</question>
+		<Correct>Напряженность электрического поля</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Сколько классов по электроопасности установлено для помещений:</question>
+		<Correct>3</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>В каком законе РФ регламентированы вопросы ответственности за нарушения требований охраны труда:</question>
+		<Correct>Оба закона</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Нормы освещения рабочих мест установлены в зависимости от:</question>
+		<Correct>От всех указанных условий</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>По какому показателю определяется класс опасности вредных веществ (в.в.) для человека:</question>
+		<Correct>По предельно-допустимой концентрации в.в</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Какие материалы используют при создании поглощающих экранов:</question>
+		<Correct>Комбинированные</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Воздействие вибрации на человека зависит от:</question>
+		<Correct>От всех указанных параметров</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>В каком законе РФ регламентированы вопросы охраны труда на предприятии:</question>
+		<Correct>Все три закона</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Вибрация оказывает отрицательное влияние на:</question>
+		<Correct>На все органы</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Какое значение имеет предельно допустимая плотность потока энергии при работе с источником СВЧ диапазона в течение 4 часов за смену:</question>
+		<Correct>50</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Освещенность имеет размерность:</question>
+		<Correct>Люкс</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>ССБТ это:</question>
+		<Correct>Система стандартов безопасности труда</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Интенсивность звуковой энергии имеет размерность:</question>
+		<Correct>Вт/м2</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Какова ПДК для мало опасных вредных веществ (мг/м3):</question>
+		<Correct>Более 10</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Допустимое значение напряжения прикосновении переменного тока промышленной частоты 50 Гц для нормального режима промышленного оборудования не должно превышать, В:</question>
+		<Correct>2</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Контроль ионизирующего излучения осуществляется с помощью:</question>
+		<Correct>Всех вышеперечисленных</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>В каком законе РФ регламентированы вопросы надзора и контроля за соблюдением законодательства об охране труда:</question>
+		<Correct>Об основах охраны труда в Российской Федерации</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Зануление обеспечивает защиту при прикосновении:</question>
+		<Correct>К металлическим нетоковедущим частям, оказывающимся под напряжением</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Какие травмы при воздействия электрического тока на человека относят к местным:</question>
+		<Correct>Все выше перечисленные</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Лазер какого класса опасности является наиболее опасным:</question>
+		<Correct>4 класса</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Поглощение электромагнитной энергии происходит в материалах:</question>
+		<Correct>Проводящих</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Принцип защитного действия зануления:</question>
+		<Correct>Оба принципа действия</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>К работе с лазерами допускаются лица не моложе:</question>
+		<Correct>18 лет</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Требуемый объем подачи наружного воздуха в помещение зависит от:</question>
+		<Correct>Всех указанных параметров</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Микроклимат в помещении определяется:</question>
+		<Correct>Всеми показателями</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Контроль за соблюдением ПДУ лазерного излучения на рабочих местах необходимо производить:</question>
+		<Correct>Не реже 2 раз в год</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Какова ПДК для умеренно опасных вредных веществ</question>
+		<Correct>1.0-10</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Какой фактор относится к критериям электробезопасности:</question>
+		<Correct>Длительность воздействия тока на человека</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Какое сопротивление, в основном, ограничивает ток через тело человека в сети с изолированной нейтралью при его включении между фазой и землей:</question>
+		<Correct>Сопротивление изоляции</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Нормируемым параметром облучения лазером является:</question>
+		<Correct>Энергетическая экспозиция</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Контроль и измерение уровня шума на рабочих местах необходимо производить</question>
+		<Correct>Не реже 1 раз в год</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>С увеличением частоты возмущающей силы действие вибрации на человека:</question>
+		<Correct>Усиливается</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Световой поток имеет размерность:</question>
+		<Correct>Люмен</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Активность радиоактивного вещества измеряется в единицах системы СИ:</question>
+		<Correct>Беккерель</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>В каких единицах измеряется абсолютная влажность воздуха:</question>
+		<Correct>г/м3</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Какова ПДК для высоко опасных вредных веществ </question>
+		<Correct>0.1-1.0</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Виброгашение зависит от:</question>
+		<Correct>Всех указанных параметров</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Какие виды действия оказывает электрический ток на человека:</question>
+		<Correct>Оба вида</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>По мере удаления от заземлителя шаговое напряжение:</question>
+		<Correct>Уменьшается</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Качественным показателем освещения является:</question>
+		<Correct>Все три показателя</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Параметром воздействия шума на человека является:</question>
+		<Correct>Оба параметра</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Какова ПДК для чрезвычайно опасных вредных веществ</question>
+		<Correct>Менее 0.1</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Разряды зрительной работы установлены в зависимости от:</question>
+		<Correct>Размера объекта</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Область применения зануления:</question>
+		<Correct>Четырехпроводные сети с глухозаземленным режимом нейтрали</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Повторное заземление нулевого провода обеспечивает защиту в аварийной ситуации:</question>
+		<Correct>В обоих случаях</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Какое напряжение (В) между фазой и землей в сети с изолированной нейтралью:</question>
+		<Correct>220</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>При какой силе тока (50Гц) в mА, протекающего через человека, начинается судорожное сокращение мышц:</question>
+		<Correct>10-25</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>В составе естественного воздуха больше всего:</question>
+		<Correct>Азота</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Мишень, предназначенная для лазерного луча должна быть:</question>
+		<Correct>C малым коэффициентом отражения</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Энергетическая освещенность лазерного излучения имеет размерность:</question>
+		<Correct>Вт/см2 </Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Вредные производственные факторы приводят к:</question>
+		<Correct>Заболеванию</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Какие огнетушители можно использовать для тушения пожара в электроустановках до 1000 В:</question>
+		<Correct>Оба типа</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Предел огнестойкости здания или конструкции определяется:</question>
+		<Correct>Временем до возникновения трещин, разрушений</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Лазер генерирует электромагнитные волны в диапазоне:</question>
+		<Correct>Во всех</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Принцип защитного действия заземления:</question>
+		<Correct>Уменьшение напряжения на корпусе электроустановки</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>В аварийной ситуации зануление:</question>
+		<Correct>Должно обеспечить большой ток короткого замыкания в цепи</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Отдача избыточного тепла от тела человека в окружающую среду идет, в большей степени, за счет:</question>
+		<Correct>Излучения</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Число выходов для эвакуации людей из помещений при пожаре должно быть не менее:</question>
+		<Correct>2</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Сколько установлено категорий взрывоопасных смесей:</question>
+		<Correct>4</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>К основным нормативно-техническим документам, регламентирующим вопросы охраны труда на предприятиях, относятся:</question>
+		<Correct>Все вышеперечисленное</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Для естественного освещения нормируется:</question>
+		<Correct>Коэффициент естественной освещенности</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Для искусственного освещения нормируется:</question>
+		<Correct>Освещенность</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Какова допустимая относительная влажность воздуха для человека в %:</question>
+		<Correct>40-75</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Постоянным считается шум, если его уровень не меняется в течение дня более, чем на:</question>
+		<Correct>5 дБ</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Звуковые волны воздействуют:</question>
+		<Correct>Все органы</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>В качестве параметра, оценивающего действие вибрации на человека, используют:</question>
+		<Correct>Оба параметра</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Сколько установлено категорий производств по пожаро- и взрывоопасности:</question>
+		<Correct>6</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Какова оптимальная относительная влажность воздуха для человека в %:</question>
+		<Correct>40-60</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Для оценки состояния травматизма на производстве коэффициент тяжести (Кт) равен?</question>
+		<Correct>a. Д/Т</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Риск гибели человека на производстве (R) рассчитывают по формуле (n-число погибших; N-численность рабочих)?</question>
+		<Correct>e. n/N</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Санитарная норма подачи наружного воздуха в помещение зависит от:</question>
+		<Incorrect1>Числа работающих в помещении</Incorrect1>
+	</record>
+	<record>
+		<question>Расследование группового, тяжелого несчастного случая со смертельным исходом, проводится комиссией в течении?</question>
+		<Correct> 15 дня</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>К какой группе ОВ по характеру токсического действия относятся зорин и зомак?</question>
+		<Incorrect1>нервно-паралитического</Incorrect1>
+	</record>
+	<record>
+		<question>Ситуация, в которой нарушена или фактически невозможна нормальная жизнедеятельность большого количества людей на большой территории?</question>
+		<Correct>чрезвычайная</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>К какой группе ОВ по характеру токсического действия относятся синильная кислота, хлорциал?</question>
+		<Incorrect1>общеядовитого</Incorrect1>
+	</record>
+	<record>
+		<question>Какая температура образуется в светящейся области ядерного взрыва в 1-ой фазе в градусах Цельсия?</question>
+		<Incorrect1>c. 2400-5700</Incorrect1>
+	</record>
+	<record>
+		<question>Сколько процентов энергии от ЯВ приходится на быстрые нейтроны?</question>
+		<Incorrect1>c. 29</Incorrect1>
+	</record>
+	<record>
+		<question>Что относится к классификации экобиозащитной технике?</question>
+		<Correct>d. Все перечисленное</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>С увеличением частоты (f, Гц) воздействие шума на человека:</question>
+		<Correct>Увеличивается</Correct>
+		<Incorrect1>null</Incorrect1>
+	</record>
+	<record>
+		<question>Время действия проникающей радиации ядерного взрыва составляет в секундах?</question>
+		<Incorrect1>b. 15-25</Incorrect1>
+	</record>
+	<record>
+		<question>На кого распространяется действие ФЗ «Об основах охраны труда в Российской Федерации»:</question>
+		<Correct>На обе категории</Correct>
+	</record>
+</data-set>
