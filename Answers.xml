@@ -302,7 +302,7 @@
 		<Correct>Вт/м2</Correct>	
 	</record>
 	<record>
-		<question>Какова ПДК для мало опасных вредных веществ (мг/м3):</question>
+		<question><span class="filter_mathjaxloader_equation">Какова ПДК для мало опасных вредных веществ <span class="nolink">\( (мг/м^3) \)</span>:</span></question>
 		<Correct>Более 10</Correct>	
 	</record>
 	<record>
