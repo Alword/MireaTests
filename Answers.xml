@@ -207,7 +207,7 @@
 	</record>
 	<record>
 		<question>Контроль защитного заземления необходимо проводить</question>
-		<Correct>Не реже 2 раз в год</Correct>
+		<Correct>Не реже 1 раза в год</Correct>
 	</record>
 	<record>
 		<question>Контроль защитного заземления необходимо проводить:</question>
@@ -390,8 +390,8 @@
 		<Correct>г/м3</Correct>		
 	</record>
 	<record>
-		<question>Какова ПДК для высоко опасных вредных веществ </question>
-		<Incorrect1>0.1-1.0</Incorrect1>		
+		<question>Какова ПДК для высоко опасных вредных веществ </question>
+		<Correct>Более 10</Correct>		
 	</record>
 	<record>
 		<question>Виброгашение зависит от:</question>
@@ -448,7 +448,7 @@
 	</record>
 	<record>
 		<question>Энергетическая освещенность лазерного излучения имеет размерность:</question>
-		<Correct>Вт/см2 </Correct>
+		<Correct>Вт/см2</Correct>
 	</record>
 	<record>
 		<question>Вредные производственные факторы приводят к:</question>
@@ -612,7 +612,7 @@
 	</record>
 	<record>
 		<question>Уровень звукового давления имеет размерность:</question>
-		<Correct>Па</Correct>
+		<Correct>дБ</Correct>
 	</record>
 	<record>
 		<question>На какое количество категорий делятся аварии на химически опасных объектах?</question>
@@ -633,5 +633,29 @@
 	<record>
 		<question>Какова скорость ударной волны при ядерном взрыве (ЯВ) (м/с)?</question>
 		<Incorrect1>>330</Incorrect1>
+	</record>
+	<record>
+		<question>В каком документе рассматриваются формы документов, необходимых для расследования и учета несчастных случаев на производстве?</question>
+		<Correct>Постановление Минтруда РФ от 24.11.2002 №73</Correct>
+	</record>
+	<record>
+		<question>Интегральную оценку уровня производственного травматизма проводят по формуле?</question>
+		<Correct>Кч Кт</Correct>
+	</record>
+	<record>
+		<question>Сколько уровней имеет РСЧС?</question>
+		<Incorrect1>5</Incorrect1>
+	</record>
+	<record>
+		<question>Сколько процентов энергии от ЯВ приходится на гаммы -излучения?</question>
+		<Correct>16</Correct>
+	</record>
+	<record>
+		<question>Предел огнестойкости здания или конструкции определяется:</question>
+		<Correct>Временем до возникновения трещин, разрушений</Correct>
+	</record>
+	<record>
+		<question>По мощности ядерные боеприпасы подразделяются на?</question>
+		<Correct>все вышеперечисленные</Correct>
 	</record>
 </data-set>
